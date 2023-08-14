@@ -1,9 +1,9 @@
 # Mie_plot
-# This code aims to visualize the single-particle extinction efficiency (Q), and mass scattering efficiency (MEE) in different particle size or size parameters.
+## This code aims to visualize the single-particle extinction efficiency (Q), and mass scattering efficiency (MEE) in different particle size or size parameters.
 
-# In the Mie_plot_main, I establish the refractive indexes (RI), and density for each chemical species. Then, I use these parameters to plot the following figures. 
+## In the Mie_plot_main, I establish the refractive indexes (RI), and density for each chemical species. Then, I use these parameters to plot the following figures. 
 
-# Excample
+## Excample
 ## All_species_Q
 ![Q_ALL_ext](https://github.com/Alex870521/Mie_plot/assets/97674280/c321e553-e5d4-4ff7-9c90-345f386e9e47)
 
