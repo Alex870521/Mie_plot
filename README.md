@@ -3,6 +3,7 @@ This code aims to visualize the single-particle extinction efficiency (Q), and m
 
 In the Mie_plot_main, I establish each chemical species' refractive indexes (RI) and density. Then, I use these parameters to plot the following figures. 
 
+<div align=center>
 ## All_species_Q
 <div align=center><img width='450' height='450' src="https://github.com/Alex870521/Mie_plot/assets/97674280/c321e553-e5d4-4ff7-9c90-345f386e9e47"/>
 
