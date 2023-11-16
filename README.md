@@ -13,9 +13,10 @@ In the Mie_plot_main, I establish each chemical species' refractive indexes (RI)
 
 
 ## Q_plot, MEE_plot, Q_size_parameter
-|--------## Q_plot------------|---------------------------------|----------------------------------|
+
 | ![all_ext](./Figure/Q_AS.png) | ![all_ext](./Figure/MEE_AS.png) | ![all_ext](./Figure/Q_sp_AS.png) |
-|------------------------------------------|------------------------------------------|------------------------------------------|
+|-------------------------------|---------------------------------|----------------------------------|
+| Q_plot                      | MEE_plot                      | Q_size_parameter               |
 
 
 
